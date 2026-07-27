@@ -1,10 +1,15 @@
-# Cloud-Based Static Portfolio Website Hosting using Amazon S3 and CloudFront
+# Cloud-Based Static Portfolio Website Hosting using Amazon S3 and Amazon CloudFront
 
 This project is a summer training minor project focused on deploying a static portfolio website on AWS using Amazon S3 and Amazon CloudFront.
 
 ## Project Overview
 
 The main objective of this project is to understand how cloud services can be used to host a real website in a simple, scalable, and cost-effective way. The project demonstrates static website hosting using Amazon S3 and fast global content delivery using Amazon CloudFront.
+
+## Live Project Links
+
+- **Amazon S3 Website Endpoint:** [http://akshat-portfolio-2026.s3-website.eu-north-1.amazonaws.com/](http://akshat-portfolio-2026.s3-website.eu-north-1.amazonaws.com/)
+- **Amazon CloudFront URL:** [https://d11fx53vt0i9bo.cloudfront.net/](https://d11fx53vt0i9bo.cloudfront.net/)
 
 ## Features
 
@@ -80,14 +85,16 @@ After deployment, use the CloudFront domain name to access the final website.
 - Improved understanding of AWS console-based configuration
 
 ## Screenshots
-
-
-
+<img width="1913" height="936" alt="Screenshot 2026-07-26 220409" src="https://github.com/user-attachments/assets/8a872396-7ffd-46e5-b8ab-ee9c7ce9fbde" />
+<img width="1903" height="872" alt="Screenshot 2026-07-26 220216" src="https://github.com/user-attachments/assets/1f1f7f02-f9ee-47ad-8e29-8f64aee69270" />
+<img width="1908" height="875" alt="Screenshot 2026-07-26 220234" src="https://github.com/user-attachments/assets/3900cab3-bdee-4400-8035-a452a8552ce5" />
+<img width="1908" height="874" alt="Screenshot 2026-07-26 220519" src="https://github.com/user-attachments/assets/5304902a-0417-4f6d-a056-85374cddcd16" />
+<img width="1907" height="868" alt="Screenshot 2026-07-26 220543" src="https://github.com/user-attachments/assets/23429a10-b3b2-42a6-822f-039491701848" />
 
 ## Author
 
 **Akshat Trivedi**  
-B.Tech CSE Student, BBDNIIT
+B.Tech CSE Student, BBDNIIT  
 Full-Stack Developer
 
 ## License
